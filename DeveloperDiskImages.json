@@ -97,10 +97,10 @@
   },
   "9.3": {
     "Image": [
-      "https://github.com/filsv/iOSDeviceSupport/raw/master/9.3/DeveloperDiskImage.dmg"
+      "https://github.com/filsv/iOSDeviceSupport/raw/master/9.3%20(13E230)/DeveloperDiskImage.dmg"
     ],
     "Signature": [
-      "https://github.com/filsv/iOSDeviceSupport/raw/master/9.3/DeveloperDiskImage.dmg.signature"
+      "https://github.com/filsv/iOSDeviceSupport/raw/master/9.3%20(13E230)/DeveloperDiskImage.dmg.signature"
     ]
   },
   "10.0": {
