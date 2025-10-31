@@ -103,14 +103,6 @@
       "https://github.com/filsv/iOSDeviceSupport/raw/master/9.3/DeveloperDiskImage.dmg.signature"
     ]
   },
-  "9.4": {
-    "Image": [
-      "https://github.com/filsv/iOSDeviceSupport/raw/master/9.4/DeveloperDiskImage.dmg"
-    ],
-    "Signature": [
-      "https://github.com/filsv/iOSDeviceSupport/raw/master/9.4/DeveloperDiskImage.dmg.signature"
-    ]
-  },
   "10.0": {
     "Image": [
       "https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image/raw/master/Developer%20Disk%20Image/10.0%20(14A345)/DeveloperDiskImage.dmg"
